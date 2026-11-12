@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel-X | Cyber Reconnaissance & Threat Neutralization",
+  "description": "Elite passive threat intelligence, bot-generated fraud detection, fingerprinting analysis, and tracker neutralization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
